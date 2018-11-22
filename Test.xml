@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >  
+<suite name="Current Account Regression Test Cases" verbose="1" >
+  
+  <test name="Run Regression tests">
+    <classes>
+       <class name="test.Mymethod" />
+    </classes>
+     </test>
+</suite>

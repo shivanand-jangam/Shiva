@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >  
+<suite name="Current Account Test Cases" verbose="1" >
+  <test name="Run Current account related test cases">
+    <classes>
+      <class name="currentAccount.CurrentTC1"/>
+      <class name="currentAccount.CurrentTC2"/>
+    </classes>
+  </test>
+</suite>

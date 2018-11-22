@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >  
+<suite name="Current Account Regression Test Cases" verbose="1" >
+  
+  <test name="Run Regression tests">
+    
+    <groups>
+    <run>
+        <include name="smoke"/>
+      </run>
+   </groups>
+    
+    <classes>
+       <class name="currentAccount.CurrentTC1" />
+       <class name="savingAccount.SavingTC1" />
+    </classes>
+     </test>
+</suite>
