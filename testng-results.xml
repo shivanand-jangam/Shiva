@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Current Account Regression Test Cases" duration-ms="77" started-at="2018-06-14T17:39:56Z" finished-at="2018-06-14T17:39:57Z">
+    <groups>
+    </groups>
+    <test name="Run Regression tests" duration-ms="77" started-at="2018-06-14T17:39:56Z" finished-at="2018-06-14T17:39:57Z">
+      <class name="test.Mymethod">
+        <test-method status="PASS" signature="main()[pri:0, instance:test.Mymethod@4883b407]" name="main" duration-ms="23" started-at="2018-06-14T17:39:57Z" finished-at="2018-06-14T17:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- test.Mymethod -->
+    </test> <!-- Run Regression tests -->
+  </suite> <!-- Current Account Regression Test Cases -->
+</testng-results>

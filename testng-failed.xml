@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Current Account Test Cases]">
+  <test thread-count="5" name="Run Current account related test cases(failed)">
+    <classes>
+      <class name="currentAccount.CurrentTC1">
+        <methods>
+          <include name="testPrintMessage"/>
+        </methods>
+      </class> <!-- currentAccount.CurrentTC1 -->
+    </classes>
+  </test> <!-- Run Current account related test cases(failed) -->
+</suite> <!-- Failed suite [Current Account Test Cases] -->
